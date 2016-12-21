@@ -40,6 +40,7 @@ RUN \
     php70-php-pear \
     php70-php-process \
     php70-php-pspell \
+    php70-php-soap \
     php70-php-xml \
 
     `# Also install the following PECL packages:` \
